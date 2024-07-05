@@ -1,6 +1,6 @@
 # 关于我
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=福建经贸学校&fontSize=90&fontAlign=50&fontAlignY=30&desc=Awesome Ajie&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=&fontSize=90&fontAlign=50&fontAlignY=30&desc=Awesome Ajie&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
 
 <div align="center">
@@ -12,9 +12,8 @@
 </div
 
 <div>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajdgg&layout=compact&theme=buefy)
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajdgg&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajdgg&layout=compact&theme=buefy" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajdgg&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 </div>
 
 

@@ -1,8 +1,7 @@
-# 关于我
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=&fontSize=90&fontAlign=50&fontAlignY=30&desc=Awesome Ajie&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
-
+# 关于我
 <div align="center">
 
 ### 一个小废物
@@ -13,7 +12,6 @@
 
 <div style="display: flex;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajdgg&layout=compact&theme=buefy" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajdgg&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 </div>
 
 

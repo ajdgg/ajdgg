@@ -11,7 +11,7 @@
 
 </div
 
-<div>
+<div style="display: flex;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajdgg&layout=compact&theme=buefy" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajdgg&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 </div>

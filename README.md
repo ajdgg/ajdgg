@@ -15,5 +15,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajdgg&layout=compact&theme=buefy" />
 </div>
 
+# GitHub 统计
+![GitHub](https://github-readme-stats.vercel.app/api?username=ajdgg&show_icons=true&locale=cn)
 
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=ajdgg&theme=github-compact&hide_border=true&area=true" />
